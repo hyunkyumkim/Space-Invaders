@@ -2,7 +2,7 @@
 Space Invaders using Pygame in Python
 
 # Instructions
-1. In order to start the game, press the mouse on the game interface.
+1. Press the mouse on the game interface to start the game.
 2. If you lost, the game will restart in 3 seconds.
 
 # Commands
